@@ -1,0 +1,17 @@
+Artifct Example Capsule
+
+Title: First Public Capsule
+Author: Artifct Example
+
+This is a self-verifying digital artifact.
+
+It demonstrates:
+
+* integrity (SHA-256 hash)
+* authorship (public key identity)
+* authenticity (cryptographic signature)
+* independence (offline verification)
+
+This file is not just data.
+
+It proves itself.
