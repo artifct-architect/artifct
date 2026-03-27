@@ -1,0 +1,11 @@
+Branch Artifact
+
+This capsule derives from the root artifact.
+
+It demonstrates lineage.
+
+This is not a copy —
+it is a continuation with reference.
+
+The relationship between artifacts is preserved
+and can be verified independently.
