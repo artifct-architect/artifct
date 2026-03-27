@@ -1,4 +1,4 @@
-# Artifct Capsule
+# (DEMO) Capsule
 
 Self-verifying digital artifacts.
 
