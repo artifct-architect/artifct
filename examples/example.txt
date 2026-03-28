@@ -1,0 +1,11 @@
+Example Artifact
+
+Title: First Public Example
+Author: Artifact Example
+Purpose: Demonstrate a self-verifying digital artifact
+
+This artifact exists to show:
+- integrity
+- authorship
+- offline verification
+- lineage-ready structure

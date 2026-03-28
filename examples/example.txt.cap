@@ -1,0 +1,19 @@
+{
+  "schema": "capsule.v0",
+  "capsule_id": "ec5564a8d68ce55f7e863d1cd093d6dffb21981b714abf580366efb817f3e547",
+  "created_at": "2026-03-28T14:27:14Z",
+  "author": "Artifact Example",
+  "parent_id": null,
+  "payload_sha256": "ae851ca4f8ccfd69a31182f9370acfefebd47131b26c8905741ac8277d5974f0",
+  "payload_b64": "RXhhbXBsZSBBcnRpZmFjdA0KDQpUaXRsZTogRmlyc3QgUHVibGljIEV4YW1wbGUNCkF1dGhvcjogQXJ0aWZhY3QgRXhhbXBsZQ0KUHVycG9zZTogRGVtb25zdHJhdGUgYSBzZWxmLXZlcmlmeWluZyBkaWdpdGFsIGFydGlmYWN0DQoNClRoaXMgYXJ0aWZhY3QgZXhpc3RzIHRvIHNob3c6DQotIGludGVncml0eQ0KLSBhdXRob3JzaGlwDQotIG9mZmxpbmUgdmVyaWZpY2F0aW9uDQotIGxpbmVhZ2UtcmVhZHkgc3RydWN0dXJl",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAO0qvWJZZ8iA+IeM0tju0bfnOGtkzzrCWN2l5+7I7w3Y=\n-----END PUBLIC KEY-----",
+  "signature_b64": "RkJ7Wtho0DNPx7SPKoNFBVFILJqb8wJ/oMszKxc11n1ACSZSCWENdykBqfX0qwfUZjfh3KohXaUOaHjxilgyCA==",
+  "signature_over": {
+    "schema": "capsule.v0",
+    "capsule_id": "ec5564a8d68ce55f7e863d1cd093d6dffb21981b714abf580366efb817f3e547",
+    "payload_sha256": "ae851ca4f8ccfd69a31182f9370acfefebd47131b26c8905741ac8277d5974f0",
+    "created_at": "2026-03-28T14:27:14Z",
+    "author": "Artifact Example",
+    "parent_id": ""
+  }
+}
