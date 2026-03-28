@@ -7,6 +7,10 @@ and can be verified offline, forever.
 
 ---
 
+👉 [Open Example Artifact](./examples/example_artifact.html)
+
+---
+
 ## Try it in 2 minutes
 
 ### Option 1 — No install (recommended)
