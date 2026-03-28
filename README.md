@@ -7,6 +7,10 @@ and can be verified offline, forever.
 
 ---
 
+[Read the Founder Record](./FOUNDER_RECORD.md)
+
+---
+
 👉 [Open Example Artifact](./examples/example_artifact.html)
 
 ---
